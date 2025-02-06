@@ -1,0 +1,8 @@
+Go Forum - An interesting place for GO devs to hang
+Its the best and quick place to ask a question and get an answer
+
+Documentation: https://go.dev/doc/
+Reference manual - https://go.dev/ref/spec
+Effective Go - https://go.dev/doc/effective_go
+
+
