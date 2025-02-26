@@ -5,6 +5,10 @@ import "fmt"
 func main() {
 	s := []int {2, 3, 5, 7, 11, 13}
 
+	// random test
+	p := s[1:]
+	fmt.Println("p:", p)
+
 	s = s[1:4]
 	fmt.Println(s)
 
